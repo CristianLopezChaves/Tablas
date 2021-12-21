@@ -1,0 +1,67 @@
+html {
+	text-align: center;
+	font-family: "Arial"
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.collapse {
+	border-collapse: collapse;
+	border: 1px solid gray;
+}
+
+body {
+	background: #00ffff;
+}
+
+.horario {
+	text-align: center;
+	background: cyan;
+}
+
+td, th {
+	color: white;
+	text-align: center;
+}
+
+h3:first-child {
+	color: yellow;
+}
+
+h3:last-child {
+	color: orange;
+}
+
+.profesores tr:nth-child(even) {
+	background-color: green;
+}
+
+	
+.profesores tr:first-child {
+	background-color: blue;
+	}
+
+.profesores {
+	background-color: orange;
+	}
+
+.compañeros tr:first-child {
+	background-color: violet;
+	}
+
+.compañeros tr:nth-child(even) {
+	background-color: blue;
+	}
+	
+.compañeros {
+	background-color: orange;
+}
+
+.link {
+	color: white;
+	font-weight: bold;
+}
+
